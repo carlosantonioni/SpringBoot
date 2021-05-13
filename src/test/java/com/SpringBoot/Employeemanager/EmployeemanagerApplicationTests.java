@@ -1,4 +1,4 @@
-package com.thirty.Employeemanager;
+package com.SpringBoot.Employeemanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
